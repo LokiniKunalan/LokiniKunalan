@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 I’m a **Senior Software Engineer** with a **BSc (Hons) in Information Technology**. Currently, I work at **IFS R&D International** where I specialize in **web development** using the **C# ASP.NET Framework**. I'm passionate about crafting efficient, scalable solutions and continuously learning about new technologies.
 
 **Languages**: C#, SQL, JavaScript, HTML,JAVA
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: ...
--->
+
